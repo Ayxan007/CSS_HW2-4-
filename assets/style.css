@@ -1,0 +1,32 @@
+.wrapper {
+  width: 1520px;
+  height: 100px;
+  background-color: aqua;
+  font-size: 60px;
+}
+.black {
+  padding: 50px 20px 30px 40px;
+}
+
+.bw{
+  padding: 0px 0px 0px 650px;
+}
+
+.inline-wrapper {
+  width: 370px;
+  height: 390px;
+  background-color: blue;
+  font-size: 25px;
+  color: rgb(215, 15, 15);
+}
+
+.rr{
+    width: 1520px;
+    height: 70px;
+    background-color: rgb(167, 87, 26);
+}
+
+.font{
+    padding: 50px 60px 20px 500px;
+    font-size: 35px;
+}
